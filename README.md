@@ -33,9 +33,6 @@ Welcome to Hexas_LLM, where cutting-edge AI meets unparalleled awesomeness! This
 ## 🎩 Dive Into the Code
 Explore the codebase, tweak it, break it, fix it, and make it your own. The possibilities are endless!
 
-## 📫 Need Help?
-Raise an issue or drop a message. We promise to respond faster than a speeding spell.
-
 ---
 
 Get ready to embark on a magical journey with Hexas_LLM! ⭐✨
