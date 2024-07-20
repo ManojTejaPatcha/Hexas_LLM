@@ -45,7 +45,7 @@ st.set_page_config(page_title="Hexas Application")
 st.header("Hexas Application")
 
 model_text = genai.GenerativeModel("gemini-pro")
-model_vision = genai.GenerativeModel("gemini-pro-vision")
+model_vision = genai.GenerativeModel("gemini-1.5-flash")
 
 option = st.radio("Choose option:", ("Text-based prompt", "Upload image"))
 
